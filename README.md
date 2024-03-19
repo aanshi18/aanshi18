@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **aanshi18/aanshi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **apatwari@asu.edu**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1cJkhztEBaqOb-r_NVpHmwl2aA1dWNOcz0dUAIbcZi1w/edit?usp=sharing](https://docs.google.com/document/d/1cJkhztEBaqOb-r_NVpHmwl2aA1dWNOcz0dUAIbcZi1w/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1cJkhztEBaqOb-r_NVpHmwl2aA1dWNOcz0dUAIbcZi1w/edit?usp=sharing)
 
 - ⚡ Fun fact: **The original name of Google was "Backrub"! It was named so because of its initial emphasis on backlink analysis for ranking web pages.**
 
