@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data mining**
 
-- 💬 Ask me about **Web Development, Data Analysis and Visualisation, Tech events**
+- 💬 Ask me about **Full-stack Development, Operating Systems, Data Analysis and Visualisation, Tech events**
 
 - 📫 How to reach me: **apatwari@asu.edu**
 
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aanshi patwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanshi patwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aanshi-patwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanshi patwari" height="30" width="40" /></a>
 <a href="https://instagram.com/aanshi_patwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aanshi_patwari" height="30" width="40" /></a>
-<a href="https://medium.com/@aanshi patwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aanshi patwari" height="30" width="40" /></a>
+<a href="https://medium.com/@aanshipatwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aanshi patwari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
