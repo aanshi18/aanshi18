@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aanshi Patwari</h1>
 <h3 align="center">Innovative Computer Science graduate with a passion for software development, data science, and impactful technology solutions.</h3>
 
-- 🔭 I’m currently working on **Sentiment analysis and Topic modeling**
+- 🔭 I’m currently working on **LLMops**
 
-- 🌱 I’m currently learning **Data mining**
+- 🌱 I’m currently learning **prompt engineering and cloud operations**
 
 - 💬 Ask me about **Full-stack Development, Operating Systems, Data Analysis and Visualisation, Tech events**
 
